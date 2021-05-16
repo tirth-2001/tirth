@@ -31,9 +31,9 @@ In this IoT project we have used **Ultrasonic Sensor** backed by **Raspberry Pi*
 
  ## Working Demo
  
- <iframe width="580"  height="360"  
-src="https://www.youtube.com/embed/2eZaZ7Ptsnc?autoplay=1&mute=1&controls=1">  
-</iframe>
+ Click on the image below to see the working demo of the project.
+ 
+ [![Self Driving Car](http://img.youtube.com/vi/_UUJlLEqS3E/0.jpg)](http://www.youtube.com/watch?v=_UUJlLEqS3E "Self Driving Car")
 
  ## Installation & Implementation
 
