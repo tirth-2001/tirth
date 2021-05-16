@@ -18,7 +18,9 @@ In this IoT project we have used **Ultrasonic Sensor** backed by **Raspberry Pi*
  - Cloud Firebase for real-time data update 📊
  - Good accuracy with ultrasonic sensor 💯
  - Buzzer Alarm for alert system 🚨
+ 
  <br>
+ 
  ## Technologies Used
  - [x] Python <img src="https://firebasestorage.googleapis.com/v0/b/smart-home-9497d.appspot.com/o/Other%20Images%2F005-python.png?alt=media&token=067ada19-745a-4e4b-be1a-55c389e05fb3" alt="drawing" width="20"/>
  - [x] Raspberry Pi <img src="https://firebasestorage.googleapis.com/v0/b/smart-home-9497d.appspot.com/o/Other%20Images%2F002-raspberry-pi.png?alt=media&token=e7bae430-f505-4c5b-b5f1-896b1914fb0d" alt="drawing" width="20"/>
@@ -28,12 +30,16 @@ In this IoT project we have used **Ultrasonic Sensor** backed by **Raspberry Pi*
  - [x] HTML5 <img src="https://firebasestorage.googleapis.com/v0/b/smart-home-9497d.appspot.com/o/Other%20Images%2F030-html-5.png?alt=media&token=071ccd89-8c9e-42de-9b29-c64b19f915a0" alt="drawing" width="20"/>
  - [x] CSS3 <img src="https://firebasestorage.googleapis.com/v0/b/smart-home-9497d.appspot.com/o/Other%20Images%2F031-css.png?alt=media&token=2989a1b9-7c67-4517-8c8e-68999110015a" alt="drawing" width="20"/>
  - [x] Bootstrap <img src="https://firebasestorage.googleapis.com/v0/b/smart-home-9497d.appspot.com/o/Other%20Images%2Fbootstrap.png?alt=media&token=c9ff9a35-cdf4-491f-b538-547df1c6d61f" alt="drawing" width="20"/>
+ 
 <br>
+
  ## Working Demo
  [Click](https://www.youtube.com/watch?v=2eZaZ7Ptsnc&list=PLdaWlSfDidCTVN303hA-2RGtthdIk1PxM&index=4) on the image below to see the working demo of the project.
  <br>
  [![Smart Dustbin using Raspberry Pi](http://img.youtube.com/vi/2eZaZ7Ptsnc/0.jpg)](https://www.youtube.com/watch?v=2eZaZ7Ptsnc&list=PLdaWlSfDidCTVN303hA-2RGtthdIk1PxM&index=4 "Smart Dustbin using Raspberry Pi")
+ 
 <br>
+
  ## Installation & Implementation
 
 1.  Clone the repository on your system
@@ -44,7 +50,9 @@ In this IoT project we have used **Ultrasonic Sensor** backed by **Raspberry Pi*
 3. For running the website, please change the firebase config as per your Firebase Project. [Click here to create new Firebase Project](https://firebase.google.com/)
 4. Go to the website folder in which `index.html` file is present. And run it on your local server .
 5. For implementing the Raspberry Pi code, set up your hardware as shown in video and run the `smart-dustbin.py` file on your Raspberry Pi.
+
 <br>
+
 ## Closing Comments
 
  - [x] Interested? 
